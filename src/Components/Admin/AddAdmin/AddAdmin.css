@@ -1,0 +1,19 @@
+.MakeAdmin {
+    background-color: #F4F7FC;
+    height: calc(100vh - 80px)
+}
+
+.MakeAdmin input {
+    width: 450px;
+    height: 40px;
+    display: inline;
+}
+
+.MakeAdmin button {
+    height: 40px;
+    transform: translateY(-1px)
+}
+
+.MakeAdmin input::placeholder {
+    color: #C9C9C9;
+}

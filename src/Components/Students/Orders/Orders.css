@@ -1,0 +1,30 @@
+.order-area {
+    background: #F4F7FC;
+}
+
+.orderForm-area {
+    width: 570px;
+}
+
+.orderForm-area input {
+    height: 60px;
+}
+
+.orderForm-area input[type='number'] {
+    width: 270px;
+}
+
+.orderForm-area input[type='file'] {
+    width: 270px;
+    transform: translateY(-9px)
+}
+
+
+
+.orderForm-area input::placeholder {
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.orderForm-area textarea::placeholder {
+    color: rgba(0, 0, 0, 0.3);
+}

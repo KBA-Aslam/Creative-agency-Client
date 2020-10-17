@@ -1,0 +1,42 @@
+.AddService {
+    background-color: #F4F7FC;
+    height: calc(100vh - 80px)
+}
+
+.service-form {
+    height: 305px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.service-form input{
+    height: 40px;
+}
+
+.upload-file-inp {
+    display: none;
+}
+
+.upload-file-btn {
+    width: 173px;
+    height: 40px;
+    background: #DEFFED;
+    border: 1px solid #009444;
+    color: #009444;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 7px;
+}
+.upload-file-btn:hover{
+    background: #009444;
+    color: #ffffff;
+}
+
+.AddService form {
+    position: relative;
+}
+
+.AddService form button {
+    position: absolute;
+    right: -14px;
+}

@@ -1,0 +1,24 @@
+.top-works {
+    height: 700px;
+    background: #111430;
+    color: white;
+  }
+  
+  .owl-dots {
+    margin-top: 80px !important;
+  }
+  
+  .owl-dots .active span{
+    background-color: #FBD062 !important;
+  }
+.top-title {
+    color: white;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 43px;
+    letter-spacing: 0.396px;
+  }
+  
+  .top-title span {
+    color: #7AB259;
+  }

@@ -1,0 +1,22 @@
+.foot{
+    background-color: #FBD062;
+    height: 837px;
+}
+
+.foot input {
+    padding-left: 20px;
+}
+.foot input::placeholder {
+    letter-spacing: 0.396px;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.foot textarea::placeholder {
+    letter-spacing: 0.396px;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.foot textarea {
+    padding-left:20px;
+    padding-top: 20px;
+}

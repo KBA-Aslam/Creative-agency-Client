@@ -1,0 +1,14 @@
+.service-list-container {
+    background-color: #F4F7FC;
+}
+.order-card {
+    width: 415px;
+    height: 254px;
+    background: #FFFFFF;
+    border-radius: 20px
+}
+
+.order-title {
+    font-weight: bold;
+    font-size: 20px;
+}
